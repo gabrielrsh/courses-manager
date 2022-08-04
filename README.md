@@ -1,4 +1,7 @@
 # CourseManager
+Projeto criado seguindo curso de introdução ao Angular 8 da DIO, ministrado por
+
+# CourseManager
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.1.
 
