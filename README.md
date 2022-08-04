@@ -1,5 +1,5 @@
 # Introdução ao Angular
-Projeto criado seguindo curso de introdução ao Angular 8 da DIO, ministrado por
+Projeto criado seguindo curso de introdução ao Angular 8 da DIO, ministrado por Wesllhey Holanda.
 
 # CourseManager
 
