@@ -8,7 +8,8 @@ import { Course } from "./course";
 })
 export class CourseService {
     
-    private courseUrl: string = 'http://localhost:3100/api/courses';
+    //private courseUrl: string = 'http://localhost:3100/api/courses';
+    private courseUrl: string = 'https://courses-manager.netlify.app/courses';
 
     constructor(private httpClient: HttpClient){ }
 
